@@ -1,0 +1,8 @@
+{
+  "book_button": "button[data-testid='book-now']",
+  "english_filter": "button[aria-label='English']",
+  "imax_filter": "button[aria-label*='IMAX']",
+  "seat_map_ready": "button[data-testid='select-showtime']",
+  "continue_to_payment": "button[data-testid='continue']",
+  "payment_page_anchor": "div[data-testid='payment-page']"
+}
